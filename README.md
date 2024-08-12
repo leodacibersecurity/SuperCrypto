@@ -19,7 +19,7 @@ OBS: Você so vai prescisar delas se quiser mudar alguma coisa no software
 
 O código é dividido em três partes principais:
 
-1. **Interface Gráfica**: Criada com a biblioteca Kivy, a interface permite ao usuário interagir com o aplicativo, inserir texto, selecionar métodos de criptografia e visualizar os resultados.
+1. **Interface Gráfica**: Criada com a biblioteca Kivy e Tkinker, a interface permite ao usuário interagir com o aplicativo, inserir texto, selecionar métodos de criptografia e visualizar os resultados.
 2. **Módulos de Criptografia**: Implementam diferentes algoritmos de criptografia e descriptografia. Cada módulo é responsável por uma técnica específica, como Cifra de César, Cifra de Vigenère, AES e RSA.
 3. **Lógica de Controle**: Gerencia a interação entre a interface gráfica e os módulos de criptografia. Ele lida com eventos do usuário, como clicar em botões, e chama as funções de criptografia apropriadas.
 
