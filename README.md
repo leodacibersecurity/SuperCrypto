@@ -9,7 +9,7 @@ OBS: Você so vai prescisar delas se quiser mudar alguma coisa no software
 ## Funcionalidades
 
 - Criptografia e descriptografia de texto usando métodos como Cifra de César, Cifra de Vigenère, AES, RSA e mais.
-- Interface gráfica simples desenvolvida com Tkinker.
+- Interface gráfica simples desenvolvida com Tkinker (E Kivy para a interface do android).
 - Opções para copiar o texto criptografado e descriptografado para a área de transferência.
 - Suporte para diferentes métodos de criptografia.
 
