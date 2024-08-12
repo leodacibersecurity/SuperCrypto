@@ -54,6 +54,6 @@ RSA é um algoritmo de criptografia assimétrica que usa um par de chaves, uma p
 # Instalação
 **Clone o repositório:**
    ```bash
-   git clone https://github.com/usuario/projeto-criptografia.git
+   git clone https://github.com/leodacibersecurity/SuperCrypto.git
    cd projeto-criptografia
 python3 supercripto.py
